@@ -13,15 +13,16 @@ O objetivo principal deste projeto é demonstrar habilidades básicas de **HTML*
 * **HTML5**
 * **CSS3**
 
-## Visualização
+## Estrutura do Projeto
 
-A tela de login é centralizada, com fundo transparente e uma borda branca que se destaca sobre a imagem temática de fundo.
+```
+tela_login_pokemon-main/
+├── index.html       # Estrutura do formulário de Login (HTML)
+├── style.css        # Estilização da interface
+├── img/             # Pasta de imagens
+│   └── pokemon.jpeg # Imagem de fundo temática
+└── README.md        # Documentação do projeto
+```
 
-
-## Como Rodar
-
-1.  **Clone o repositório** (se estiver hospedado em um).
-2.  Abra o arquivo `index.html` em seu navegador web.
-
----
-**Desenvolvido por:** _[Seu Nome ou Usuário do GitHub]_
+## Contato
+Para dúvidas ou sugestões, entre em contato pelo e-mail: vitormunnizz@gmail.com.
